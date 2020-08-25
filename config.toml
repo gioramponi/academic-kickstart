@@ -3,5 +3,6 @@
 #
 # The presence of this file is for compatibility with Blogdown and Forestry.
 # If you are not using those tools, this file may be deleted.
+baseurl = "https://gioramponi.github.io/"
 #
 # The actual configuration files are stored in the `config/_default/` folder.
